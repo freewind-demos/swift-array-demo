@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'swift_array_demo' in project 'swift_array_demo' (no dependencies)
